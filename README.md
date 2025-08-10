@@ -29,21 +29,6 @@ This project implements a **DTW-based classifier** in a **Tkinter GUI**, allowin
 
 ---
 
-## 📂 Project Structure
-keystroke-biometrics-dtw/
-│
-├── README.md
-├── LICENSE
-├── requirements.txt
-├── .gitignore
-│
-├── src/
-│   └── keystroke_app.py
-│
-└── docs/
-    ├── report.pdf
-    └── screenshots/
-
 
 ## 🛠 Installation
 
