@@ -1,4 +1,4 @@
-this is the full version of the code wdyt : # 🖋️ Keystroke Biometrics Authentication using DTW
+# 🖋️ Keystroke Biometrics Authentication using DTW
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -16,7 +16,7 @@ This project implements a **DTW-based classifier** in a **Tkinter GUI**, allowin
 - **Verification**: authenticate based on DTW distance to reference profile.
 - **Analysis**: visualize DTW distances and compare samples.
 
-📄 Detailed methodology and evaluation can be found in the [full project report](docs/report.pdf).
+📄 Detailed methodology and evaluation can be found in the [full project report](docs/rapport.pdf).
 
 ---
 
@@ -38,16 +38,12 @@ keystroke-biometrics-dtw/
 ├── .gitignore
 │
 ├── src/
-│ └── keystroke_app.py 
+│   └── keystroke_app.py
 │
-├── docs/
-│ ├── report.pdf 
-│ └── screenshots/ 
-│
-│
-└── results/
-├── sample_plot.png
-└── performance_metrics.txt
+└── docs/
+    ├── report.pdf
+    └── screenshots/
+
 
 ## 🛠 Installation
 
@@ -100,4 +96,3 @@ Mihoub Rahma
 
 ### 📧 Contact
 mihoubrahma@gmail.com
-```
