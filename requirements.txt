@@ -1,0 +1,6 @@
+tkinter
+keyboard
+numpy
+fastdtw
+scipy
+matplotlib
